@@ -11,22 +11,20 @@ async def start(_, message: Message):
 
 The commands I currently support are:
 
-/play - 🎶 Play the replied audio file or YouTube video 
-/pause - ▶️ Pause the audio stream 
-/resume - ⏸ Resume the audio stream 
-/skip - ↪️ Skip the current audio stream
-/mute - 🔇 Mute the userbot
-/unmute - 🔊 Unmute the userbot
-/stop - 🗑🛑 Clear the queue and remove the userbot from the call
+ Im Group Music Player Bot 🎵
+
+ Hello 👋 there! I can play music in voice chats of Telegeam Groups.
+I have a lot of cool feature that will amaze you! Made By [Pawan Theekshana](t.me/Pawan_Theekshana)
+
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/HiTechRockets"
+                        "Group", url="https://t.me/MizuSupport_Official"
                     ),
                     InlineKeyboardButton(
-                        "Channel", url="https://t.me/HiTechRocket"
+                        "Channel", url="https://t.me/MizuUpdates"
                     )
                 ]
             ]
